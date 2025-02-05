@@ -19,11 +19,11 @@ start_message = (
     "🍒 Платформа для Встречи❤️‍🔥 😈❤️‍🔥 Только у нас проверенные бабочки🍒🍌🧚‍♀️\n\n"
     "Наши девочки заставят Вас сиять!💋\n"
     "Стоит только попробовать!💋\n\n"
-    "https://telegra.ph/Sweetnighte-01-13\n"
+    "https://telegra.ph/Dosug-i-otdyh-02-05"
 )
 
-button1 = InlineKeyboardButton(text="Провести прекрасный вечер💋", url="https://telegra.ph/Sweetnighte-01-13")
-button2 = InlineKeyboardButton(text="Заказать встречу", url="https://telegra.ph/Sweetnighte-01-13")
+button1 = InlineKeyboardButton(text="Провести прекрасный вечер💋", url="https://telegra.ph/Dosug-i-otdyh-02-05")
+button2 = InlineKeyboardButton(text="Заказать встречу", url="https://telegra.ph/Dosug-i-otdyh-02-05")
 keyboard = InlineKeyboardMarkup(inline_keyboard=[[button1], [button2]])
 
 # Обработка команды /start
